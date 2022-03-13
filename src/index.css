@@ -1,0 +1,11 @@
+body {
+    background: url("./img/bg.png") no-repeat;
+    background-size: cover;
+    
+}
+#root {
+    width: 100%;
+    max-width: 1820px;
+    margin-top: 32px;
+    margin-left: 136px;
+}

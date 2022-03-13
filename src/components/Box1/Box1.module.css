@@ -1,0 +1,33 @@
+.content {
+    padding-right: 20px;
+}
+.contentText {
+    margin-bottom: 80px;
+    font-family: 'DIN Pro';
+    font-size: 54px;
+    line-height: 220px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #242424
+}
+.contentTextItem1 {
+    font-family: "Gilroy";
+    font-size: 205px;
+    line-height: 234px;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #171717;
+}
+.contentTextItem2 {
+    font-weight: 800;
+}
+.contentBtn {
+    width: 577px;
+    height: 161px;
+    border-radius: 85px;
+    border-style: none;
+    margin-left: 100px;
+    background-image: url(/src/img/Btn.png);
+}
