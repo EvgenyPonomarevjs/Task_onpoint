@@ -1,0 +1,29 @@
+.headingText {
+    width: 360px;
+    font-family: 'DIN Pro';
+    font-size: 54px;
+    line-height: 1.2;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #242424;
+}
+.textScroll {
+    padding: 65px 10px 65px 65px;
+    margin-left: 120px;
+    width: 1550px;
+    max-height: 890px;
+    background-color: #ffff;
+    border-radius: 80px;
+    
+}
+.text {
+    overflow: auto;
+    max-width: 1385px;
+    height: 806px;
+    font-size: 24px;
+    font-weight: 300;
+}
+.wrap {
+    padding: 0px 20px 0px 20px;
+}

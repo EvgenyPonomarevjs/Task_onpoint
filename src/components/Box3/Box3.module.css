@@ -1,0 +1,71 @@
+.content {
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    align-items: center;
+
+}
+.box_content {
+    display: flex;
+}
+.content_text {
+    font-family: 'DIN Pro';
+font-size: 54px;
+line-height: 1.2;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 0.06em;
+color: #242424;
+}
+.content_text2 {
+    font-family: 'Gilroy';
+    font-size: 190px;
+    line-height: 1.2;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.11em;
+    color: #242424;
+}
+.content_text_item {
+    font-family: 'Gilroy';
+font-size: 190px;
+line-height: 1.2;
+font-weight: 800;
+text-transform: uppercase;
+letter-spacing: 0.11em;
+color: #242424;
+}
+.box_content_item1 {
+    width: 100%;
+    max-width: 827px;
+    height: 530px;
+    background-color: #ffffff;
+    box-shadow: 5px 8px 132px 18px rgba(157,185,198,0.38);
+    border-radius: 80px;
+    font-family: 'DIN Pro';
+    font-size: 50px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #2e2e2e;
+}
+.box_content_text {
+    width: 470px;
+    padding-left: 260px;
+    padding-top: 115px;
+}
+.box_content_text2 {
+    
+    padding-left: 90px;
+    padding-top: 87px;
+}
+.box_content_item2 {
+    width: 526px;
+    height: 300px;
+    background-color: #ffffff;
+    box-shadow: 5px 8px 232px 18px rgba(157,185,198,0.38);
+    border-radius: 80px;
+    font-family: 'DIN Pro';
+    font-size: 50px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #2e2e2e;
+}

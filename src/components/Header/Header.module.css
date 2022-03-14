@@ -1,0 +1,8 @@
+.btnHome:hover {
+    padding-top: 1px;
+    opacity: 80%;
+}
+.btnHome:active {
+    outline: 1px solid black;
+    border-radius: 10px;
+}
