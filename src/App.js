@@ -8,14 +8,17 @@ import s from './index.css'
 
 function App() {
   return (
-    <div>
-        <Header />
+    <div className={s.wrap}>
+      <div >
+        <Header className={s.wrap2}/>
           <Carousel>
             <div className={s.item}><Box1/></div>
             <div className={s.item}><Box2/></div>
             <div className={s.item}><Box3/></div>
           </Carousel>
       <Footer />
+      </div>
+
     </div>
   );
 }
